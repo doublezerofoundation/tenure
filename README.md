@@ -1,4 +1,4 @@
-For validators in the DoubleZero Delegation Program (https://doublezero.xyz/journal/guide-to-the-doublezero-delegation-pool-dzdp), the two more important components that govern delegated stake are:
+For validators in the DoubleZero Delegation Program (https://doublezero.xyz/journal/guide-to-the-doublezero-delegation-pool-dzdp), the two most important components that govern delegated stake are:
 1) The amount of stake a validator brings onto the network
 2) The "tenure," i.e. continuous connection to DoubleZero
 
